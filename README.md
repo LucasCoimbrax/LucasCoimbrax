@@ -8,7 +8,7 @@
     <a href = "https://www.linkedin.com/in/lucascoimbrarochalago/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 
-![Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=radical)
+[![Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=radical)](https://github.com/LucasCoimbrax)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact)](https://github.com/LucasCoimbrax)
 
 ## Minhas Tecnologias
