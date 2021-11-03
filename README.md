@@ -1,6 +1,8 @@
-### Olá! Eu sou o Lucas Coimbra 
+### Olá! Eu sou o Lucas Coimbra ✌️
 
-email: Lucascoimbralago@gmail.com
+📜 Estudando: Desenvolvimento FullSataks
+😊 Pronoums: [ele/dele]
+📧 Contato: Lucascoimbralago@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascoimbrarochalago/)
 
