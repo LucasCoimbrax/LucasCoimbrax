@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Coimbra ✌️
 
-📜 Estudando: Desenvolvimento FullSataks <br/>
+📜 Estudando: Desenvolvimento FullStacks <br/>
 😊 Pronoums: [ele/dele] <br/>
 
 <div>
