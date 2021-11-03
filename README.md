@@ -2,7 +2,6 @@
 
 📜 Estudando: Desenvolvimento FullSataks <br/>
 😊 Pronoums: [ele/dele] <br/>
-📧 Contato: Lucascoimbralago@gmail.com <br/>
 
 <div>
     <a href = "mailto:Lucascoimbralago@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
