@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Lucas Coimbra ✌️
 
-📜 Estudando: Desenvolvimento FullSataks
-😊 Pronoums: [ele/dele]
-📧 Contato: Lucascoimbralago@gmail.com
+📜 Estudando: Desenvolvimento FullSataks <br/>
+😊 Pronoums: [ele/dele] <br/>
+📧 Contato: Lucascoimbralago@gmail.com <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascoimbrarochalago/)
 
 ![Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=radical)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact)](https://github.com/LucasCoimbrax)
 
 ## Minhas Tecnologias
 
