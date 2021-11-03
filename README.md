@@ -4,7 +4,10 @@
 😊 Pronoums: [ele/dele] <br/>
 📧 Contato: Lucascoimbralago@gmail.com <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascoimbrarochalago/)
+<div>
+    <a href = "mailto:Lucascoimbralago@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href = "https://www.linkedin.com/in/lucascoimbrarochalago/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</div>
 
 ![Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact)](https://github.com/LucasCoimbrax)
