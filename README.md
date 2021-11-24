@@ -9,7 +9,7 @@
 </div>
 
 [![Coimbra GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=radical)](https://github.com/LucasCoimbrax)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact)](https://github.com/LucasCoimbrax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact)](https://github.com/LucasCoimbrax)
 
 
 ## Minhas Tecnologias
