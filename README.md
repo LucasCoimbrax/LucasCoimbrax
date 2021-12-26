@@ -30,3 +30,10 @@
     <a href = "https://www.instagram.com/coimbralago/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target = "_blanck">
 </div>
 <div style="display: inline_block"><br/>
+        
+<!--JOGO DA COBRINHA COM OS COMMIT's-->
+    
+![Snake animation](https://github.com/LucasCoimbrax/LucasCoimbrax/blob/output/github-contribution-grid-snake.svg)
+        
+        
+        
