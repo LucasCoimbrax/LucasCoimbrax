@@ -2,7 +2,7 @@
 
 😊 Pronoums: [ele/dele] <br/>
 📜 Estudando: Nextjs <br/>
-🖥️ Sou desenvolvedor Fullstack, possuo conhecimento nas seguintes tecnologias no: <br/>
+🖥️ Sou desenvolvedor Fullstack, possuo conhecimento nas seguintes tecnologias: <br/>
         -> Front-end: HTML, CSS, JavaScript/TypeScript, React, Vuejs e Nextjs; <br/>
         -> Back-end: Nodejs, express, knex, SQL e MySQL; <br/>
         
