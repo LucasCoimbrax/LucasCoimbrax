@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Lucas Coimbra ✌️
 
 😊 Pronoums: [ele/dele] <br/>
-📜 Estudando: Nextjs
-🖥️ Sou desenvolvedor Fullstack, possuo conhecimento nas seguintes tecnologias no:
-        -> Front-end: HTML, CSS, JavaScript/TypeScript, React, Vuejs e Nextjs;
-        -> Back-end: Nodejs, express, knex, SQL e MySQL;
+📜 Estudando: Nextjs <br/>
+🖥️ Sou desenvolvedor Fullstack, possuo conhecimento nas seguintes tecnologias no: <br/>
+        -> Front-end: HTML, CSS, JavaScript/TypeScript, React, Vuejs e Nextjs; <br/>
+        -> Back-end: Nodejs, express, knex, SQL e MySQL; <br/>
         
 <!--Inseri as tabelas com informações-->
 <div align="center">
