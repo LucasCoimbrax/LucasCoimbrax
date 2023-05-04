@@ -3,7 +3,7 @@
 😊 Pronoums: [ele/dele] <br/>
 📜 Estudando: C# e .NET <br/>
 🖥️ Sou desenvolvedor de Sistemas, possuo conhecimento nas seguintes tecnologias: <br/>
-        -> Power BI, Python, C# e .NET
+        -> Power BI, Python, C# e .NET <br/>
         -> Front-end: HTML, CSS, JavaScript/TypeScript, React, Vuejs e Nextjs; <br/> 
         -> Back-end: Nodejs, express, knex, SQL e MySQL; <br/>
         
