@@ -1,3 +1,20 @@
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Electrical+Engineer;M.Sc.+Student;Python+%7C+C%2B%2B+%7C+Qt%2FQML;Artificial+Intelligence"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-412991"/>
+<img src="https://img.shields.io/badge/Electrical_Engineering-00599C"/>
+
+</p>
+
 <h1 align="center">Olá! 👋 Eu sou o Lucas Coimbra</h1>
 
 <p align="center">
@@ -71,12 +88,30 @@ processamento de sinais e interfaces modernas utilizando Qt/QML.
 
 ---
 
-## 📈 Estatísticas
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasCoimbrax&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCoimbrax&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCoimbrax&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LucasCoimbrax&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
@@ -101,8 +136,10 @@ processamento de sinais e interfaces modernas utilizando Qt/QML.
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <p align="center">
-<img src="https://github.com/LucasCoimbrax/LucasCoimbrax/blob/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/LucasCoimbrax/LucasCoimbrax/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
