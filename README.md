@@ -23,7 +23,7 @@
 
 <p align="center">
 Desenvolvedor de Sistemas apaixonado por desenvolvimento de software, Inteligência Artificial,
-processamento de sinais e interfaces modernas utilizando Qt/QML.
+processamento de sinais e interfaces
 </p>
 
 ---
